@@ -1,0 +1,22 @@
+
+;; ----- smex-history -----
+(
+ global-linum-mode
+ info
+ nodejs-repl-send-buffer
+ nodejs-repl
+ byte-compile-file
+ cd
+ customize-group
+)
+
+;; ----- smex-data -----
+(
+ (customize-group . 1)
+ (cd . 1)
+ (nodejs-repl . 2)
+ (nodejs-repl-send-buffer . 10)
+ (byte-compile-file . 3)
+ (info . 2)
+ (global-linum-mode . 1)
+)
