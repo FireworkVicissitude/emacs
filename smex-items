@@ -1,8 +1,8 @@
 
 ;; ----- smex-history -----
 (
- global-linum-mode
  info
+ global-linum-mode
  nodejs-repl-send-buffer
  nodejs-repl
  byte-compile-file
@@ -17,6 +17,6 @@
  (nodejs-repl . 2)
  (nodejs-repl-send-buffer . 10)
  (byte-compile-file . 3)
- (info . 2)
+ (info . 3)
  (global-linum-mode . 1)
 )
